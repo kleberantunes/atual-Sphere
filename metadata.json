@@ -1,0 +1,8 @@
+{
+  "name": "Babel Streaming - Multi-Language Streaming",
+  "description": "A production-ready web platform for live and VOD streaming with real-time multi-language audio selection. This application provides a seamless experience for creators, interpreters, and viewers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
